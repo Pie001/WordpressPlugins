@@ -1,10 +1,10 @@
 <?php
 /*
  Plugin Name: IP LIMIT
- Description: IP制限プラグイン
- Author: pie
+ Description: IP制限プラグイン - View filtering by IP
+ Author: pie001
  Version: 1.0
- */
+*/
 
 $ip_limit = new IP_Limit();
 
