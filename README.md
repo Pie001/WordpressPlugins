@@ -21,4 +21,4 @@ Register the IP for internal viewing only, and perform browsing control per post
 - Comment List
 - Current Comment
 
-The article which can be got by RSS is only the article "External release". Comments can not be got.
+The Post which can be got by RSS is only the Post "External release". Comments can not be got.
