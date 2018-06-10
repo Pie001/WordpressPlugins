@@ -2,7 +2,7 @@
 
 ## IP LIMIT
 
-[IP制限プラグイン – View filtering by IP](https://wordpress.org/plugins/ip-limit/)
+[IP LIMIT – View filtering by IP](https://wordpress.org/plugins/ip-limit/)
 
 - Contributors: pie001
 - Requires at least: 4.3.1
@@ -10,15 +10,15 @@
 - Stable Tag: 1.0
 
 ### Description
-IP制限プラグイン - View filtering by IP
+IP LIMIT WordPress Plugin - View filtering by IP
 
-内部閲覧専用のIPを登録し、投稿記事単位の閲覧制御を行います。
+Register the IP for internal viewing only, and perform browsing control per post article unit.
 
-### 制限範囲
-- 投稿一覧
-- 投稿画面の前ページ&後ページ
-- 最近の投稿
-- コメント一覧
-- 最近のコメント
+### limit scope
+- Post List
+- Next and Previous Links
+- Current Post
+- Comment List
+- Current Comment
 
-※RSSで取得できる記事は「外部公開」の記事のみです。コメントは取得できません。
+The article which can be got by RSS is only the article "External release". Comments can not be got.
