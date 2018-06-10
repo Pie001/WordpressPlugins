@@ -1,5 +1,7 @@
 # WordpressPlugins
 
+[English](README.md), [한국어](README.ko.md), [日本語](README.ja.md)
+
 ## IP LIMIT
 
 [IP제한 플러그인 – View filtering by IP](https://wordpress.org/plugins/ip-limit/)
